@@ -1,2 +1,2 @@
 # hello-world
-# no idea
+hello world
